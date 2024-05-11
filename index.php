@@ -8,8 +8,8 @@
 </head>
 <body>
     <div>
-        <label for="input-url">Type URL you want shortened here:</label>
         <input type="url" id="input-url" required>
+        <label for="input-url">Type URL you wish to be shortened:</label>
         <button onclick="shorten()">Submit</button>
     </div>
 
